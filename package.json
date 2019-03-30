@@ -1,0 +1,18 @@
+{
+  "name": "monitoro",
+  "version": "1.0.0",
+  "description": "Error & Bug Monitoring Service, Always Watching your service : )",
+  "author": {
+    "name": "dev4us",
+    "email": "public.dev4us@gmail.com",
+    "url": "http://dev4us.tistory.com"
+  },
+  "main": "./lib/monitoro.js",
+  "scripts": {
+    "test": "node ./lib/sandbox.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
